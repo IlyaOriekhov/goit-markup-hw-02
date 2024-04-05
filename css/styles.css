@@ -70,6 +70,11 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  cursor: pointer;
+}
+.btn:hover,
+.btn:focus {
+  background-color: #404bbf;
 }
 button {
   background: #4d5ae5;
