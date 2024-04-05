@@ -104,3 +104,13 @@ h2 {
   text-align: center;
   color: #2e2f42;
 }
+.list-thrd {
+  font-size: 36px;
+  line-height: 1.11;
+  text-transform: capitalize;
+}
+.main-thrd {
+  font-size: 36px;
+  line-height: 1.11;
+  text-transform: capitalize;
+}
