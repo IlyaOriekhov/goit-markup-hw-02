@@ -129,3 +129,18 @@ h2 {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.main-frth {
+  line-height: 1.11;
+  text-transform: capitalize;
+}
+.img-frth {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.para-frth {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
